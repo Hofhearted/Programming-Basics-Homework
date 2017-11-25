@@ -1,0 +1,5 @@
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\C SquareOfStars\bin\Debug\C SquareOfStars.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\C SquareOfStars\bin\Debug\C SquareOfStars.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\C SquareOfStars\bin\Debug\C SquareOfStars.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\C SquareOfStars\obj\Debug\C SquareOfStars.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\C SquareOfStars\obj\Debug\C SquareOfStars.pdb

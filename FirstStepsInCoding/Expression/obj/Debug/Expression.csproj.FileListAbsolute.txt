@@ -1,0 +1,9 @@
+D:\Games\Games\Information\Projects\Software University\FirstStepsInCoding\Expression\bin\Debug\Expression.exe.config
+D:\Games\Games\Information\Projects\Software University\FirstStepsInCoding\Expression\bin\Debug\Expression.exe
+D:\Games\Games\Information\Projects\Software University\FirstStepsInCoding\Expression\bin\Debug\Expression.pdb
+D:\Games\Games\Information\Projects\Software University\FirstStepsInCoding\Expression\obj\Debug\Expression.csprojResolveAssemblyReference.cache
+D:\Games\Games\Information\Projects\Software University\FirstStepsInCoding\Expression\obj\Debug\Expression.exe
+D:\Games\Games\Information\Projects\Software University\FirstStepsInCoding\Expression\obj\Debug\Expression.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\Expression\bin\Debug\Expression.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\Expression\obj\Debug\Expression.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\Expression\obj\Debug\Expression.pdb

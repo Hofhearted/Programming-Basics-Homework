@@ -1,0 +1,5 @@
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\M PointInTheFigure\bin\Debug\M PointInTheFigure.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\M PointInTheFigure\bin\Debug\M PointInTheFigure.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\M PointInTheFigure\bin\Debug\M PointInTheFigure.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\M PointInTheFigure\obj\Debug\M PointInTheFigure.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\M PointInTheFigure\obj\Debug\M PointInTheFigure.pdb

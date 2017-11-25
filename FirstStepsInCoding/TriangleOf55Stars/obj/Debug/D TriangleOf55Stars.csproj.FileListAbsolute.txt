@@ -1,0 +1,7 @@
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\TriangleOf55Stars\obj\Debug\D TriangleOf55Stars.csprojResolveAssemblyReference.cache
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\TriangleOf55Stars\obj\Debug\D TriangleOf55Stars.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.pdb

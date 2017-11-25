@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\Advanced Loops\E Sequence2k+1\bin\Debug\E Sequence2k+1.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\Advanced Loops\E Sequence2k+1\bin\Debug\E Sequence2k+1.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\Advanced Loops\E Sequence2k+1\bin\Debug\E Sequence2k+1.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\Advanced Loops\E Sequence2k+1\obj\Debug\E Sequence2k+1.csprojResolveAssemblyReference.cache
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\Advanced Loops\E Sequence2k+1\obj\Debug\E Sequence2k+1.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\Advanced Loops\E Sequence2k+1\obj\Debug\E Sequence2k+1.pdb

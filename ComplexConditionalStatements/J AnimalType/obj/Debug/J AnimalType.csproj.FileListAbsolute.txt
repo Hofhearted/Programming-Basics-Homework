@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\J AnimalType\bin\Debug\J AnimalType.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\J AnimalType\bin\Debug\J AnimalType.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\J AnimalType\bin\Debug\J AnimalType.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\J AnimalType\obj\Debug\J AnimalType.csprojResolveAssemblyReference.cache
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\J AnimalType\obj\Debug\J AnimalType.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\J AnimalType\obj\Debug\J AnimalType.pdb

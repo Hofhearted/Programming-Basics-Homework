@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\ComplexConditions\bin\Debug\ComplexConditions.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\ComplexConditions\bin\Debug\ComplexConditions.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\ComplexConditions\bin\Debug\ComplexConditions.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\ComplexConditions\obj\Debug\(Side) ComplexConditions.csprojResolveAssemblyReference.cache
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\ComplexConditions\obj\Debug\ComplexConditions.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\ComplexConditions\obj\Debug\ComplexConditions.pdb

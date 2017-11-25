@@ -1,0 +1,5 @@
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\K Cinema\bin\Debug\K Cinema.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\K Cinema\bin\Debug\K Cinema.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\K Cinema\bin\Debug\K Cinema.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\K Cinema\obj\Debug\K Cinema.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\K Cinema\obj\Debug\K Cinema.pdb

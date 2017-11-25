@@ -1,0 +1,5 @@
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\Advanced Loops\NumbersNTo1\bin\Debug\NumbersNTo1.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\Advanced Loops\NumbersNTo1\bin\Debug\NumbersNTo1.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\Advanced Loops\NumbersNTo1\bin\Debug\NumbersNTo1.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\Advanced Loops\NumbersNTo1\obj\Debug\NumbersNTo1.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\Advanced Loops\NumbersNTo1\obj\Debug\NumbersNTo1.pdb

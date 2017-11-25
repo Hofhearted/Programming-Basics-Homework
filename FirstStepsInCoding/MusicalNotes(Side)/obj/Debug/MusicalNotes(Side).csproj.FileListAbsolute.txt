@@ -1,0 +1,5 @@
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\MusicalNotes(Side)\bin\Debug\MusicalNotes(Side).exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\MusicalNotes(Side)\bin\Debug\MusicalNotes(Side).exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\MusicalNotes(Side)\bin\Debug\MusicalNotes(Side).pdb
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\MusicalNotes(Side)\obj\Debug\MusicalNotes(Side).exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\MusicalNotes(Side)\obj\Debug\MusicalNotes(Side).pdb

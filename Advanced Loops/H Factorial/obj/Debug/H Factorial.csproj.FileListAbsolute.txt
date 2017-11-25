@@ -1,0 +1,5 @@
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\Advanced Loops\H Factorial\bin\Debug\H Factorial.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\Advanced Loops\H Factorial\bin\Debug\H Factorial.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\Advanced Loops\H Factorial\bin\Debug\H Factorial.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\Advanced Loops\H Factorial\obj\Debug\H Factorial.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\Advanced Loops\H Factorial\obj\Debug\H Factorial.pdb

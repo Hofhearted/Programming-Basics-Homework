@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\La\bin\Debug\La.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\La\bin\Debug\La.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\La\bin\Debug\La.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\La\obj\Debug\La.csprojResolveAssemblyReference.cache
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\La\obj\Debug\La.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\La\obj\Debug\La.pdb

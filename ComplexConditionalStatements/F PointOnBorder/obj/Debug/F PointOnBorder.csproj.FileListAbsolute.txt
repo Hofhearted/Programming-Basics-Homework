@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\F PointOnBorder\obj\Debug\F PointOnBorder.csprojResolveAssemblyReference.cache
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\F PointOnBorder\bin\Debug\F PointOnBorder.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\F PointOnBorder\bin\Debug\F PointOnBorder.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\F PointOnBorder\bin\Debug\F PointOnBorder.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\F PointOnBorder\obj\Debug\F PointOnBorder.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\F PointOnBorder\obj\Debug\F PointOnBorder.pdb

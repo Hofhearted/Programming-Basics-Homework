@@ -1,0 +1,5 @@
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\Converter(Side)\bin\Debug\Converter(Side).exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\Converter(Side)\bin\Debug\Converter(Side).exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\Converter(Side)\bin\Debug\Converter(Side).pdb
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\Converter(Side)\obj\Debug\Converter(Side).exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\Converter(Side)\obj\Debug\Converter(Side).pdb

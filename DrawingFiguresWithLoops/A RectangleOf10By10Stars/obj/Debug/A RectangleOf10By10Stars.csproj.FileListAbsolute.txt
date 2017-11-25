@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\A RectangleOf10By10Stars\bin\Debug\A RectangleOf10By10Stars.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\A RectangleOf10By10Stars\bin\Debug\A RectangleOf10By10Stars.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\A RectangleOf10By10Stars\bin\Debug\A RectangleOf10By10Stars.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\A RectangleOf10By10Stars\obj\Debug\A RectangleOf10By10Stars.csprojResolveAssemblyReference.cache
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\A RectangleOf10By10Stars\obj\Debug\A RectangleOf10By10Stars.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\A RectangleOf10By10Stars\obj\Debug\A RectangleOf10By10Stars.pdb

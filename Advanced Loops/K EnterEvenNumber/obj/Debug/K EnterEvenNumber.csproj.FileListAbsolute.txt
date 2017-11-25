@@ -1,0 +1,5 @@
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\Advanced Loops\K EnterEvenNumber\bin\Debug\K EnterEvenNumber.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\Advanced Loops\K EnterEvenNumber\bin\Debug\K EnterEvenNumber.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\Advanced Loops\K EnterEvenNumber\bin\Debug\K EnterEvenNumber.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\Advanced Loops\K EnterEvenNumber\obj\Debug\K EnterEvenNumber.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\Advanced Loops\K EnterEvenNumber\obj\Debug\K EnterEvenNumber.pdb

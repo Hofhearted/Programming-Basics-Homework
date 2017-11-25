@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\RectangleArea\bin\Debug\RectangleArea.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\RectangleArea\bin\Debug\RectangleArea.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\RectangleArea\bin\Debug\RectangleArea.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\RectangleArea\obj\Debug\E RectangleArea.csproj.CoreCompileInputs.cache
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\RectangleArea\obj\Debug\RectangleArea.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\RectangleArea\obj\Debug\RectangleArea.pdb

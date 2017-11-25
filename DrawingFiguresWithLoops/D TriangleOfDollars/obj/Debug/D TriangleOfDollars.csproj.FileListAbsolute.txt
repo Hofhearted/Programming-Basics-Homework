@@ -1,0 +1,5 @@
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\D TriangleOfDollars\bin\Debug\D TriangleOfDollars.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\D TriangleOfDollars\bin\Debug\D TriangleOfDollars.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\D TriangleOfDollars\bin\Debug\D TriangleOfDollars.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\D TriangleOfDollars\obj\Debug\D TriangleOfDollars.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\D TriangleOfDollars\obj\Debug\D TriangleOfDollars.pdb

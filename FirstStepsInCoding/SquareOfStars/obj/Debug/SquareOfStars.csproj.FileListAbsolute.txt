@@ -1,0 +1,9 @@
+D:\Games\Games\Information\Projects\Software University\FirstStepsInCoding\SquareOfStars\bin\Debug\SquareOfStars.exe.config
+D:\Games\Games\Information\Projects\Software University\FirstStepsInCoding\SquareOfStars\bin\Debug\SquareOfStars.exe
+D:\Games\Games\Information\Projects\Software University\FirstStepsInCoding\SquareOfStars\bin\Debug\SquareOfStars.pdb
+D:\Games\Games\Information\Projects\Software University\FirstStepsInCoding\SquareOfStars\obj\Debug\SquareOfStars.csprojResolveAssemblyReference.cache
+D:\Games\Games\Information\Projects\Software University\FirstStepsInCoding\SquareOfStars\obj\Debug\SquareOfStars.exe
+D:\Games\Games\Information\Projects\Software University\FirstStepsInCoding\SquareOfStars\obj\Debug\SquareOfStars.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\SquareOfStars\bin\Debug\SquareOfStars.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\SquareOfStars\obj\Debug\SquareOfStars.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\SquareOfStars\obj\Debug\SquareOfStars.pdb

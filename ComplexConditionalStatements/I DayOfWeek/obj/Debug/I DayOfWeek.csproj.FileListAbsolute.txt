@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\I DayOfWeek\bin\Debug\I DayOfWeek.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\I DayOfWeek\bin\Debug\I DayOfWeek.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\I DayOfWeek\bin\Debug\I DayOfWeek.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\I DayOfWeek\obj\Debug\I DayOfWeek.csprojResolveAssemblyReference.cache
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\I DayOfWeek\obj\Debug\I DayOfWeek.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\I DayOfWeek\obj\Debug\I DayOfWeek.pdb

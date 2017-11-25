@@ -1,0 +1,5 @@
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\Advanced Loops\G GreatestCommonDivisor\bin\Debug\G GreatestCommonDivisor.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\Advanced Loops\G GreatestCommonDivisor\bin\Debug\G GreatestCommonDivisor.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\Advanced Loops\G GreatestCommonDivisor\bin\Debug\G GreatestCommonDivisor.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\Advanced Loops\G GreatestCommonDivisor\obj\Debug\G GreatestCommonDivisor.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\Advanced Loops\G GreatestCommonDivisor\obj\Debug\G GreatestCommonDivisor.pdb

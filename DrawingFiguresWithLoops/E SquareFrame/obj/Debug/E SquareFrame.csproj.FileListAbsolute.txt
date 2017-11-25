@@ -1,0 +1,5 @@
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\E SquareFrame\bin\Debug\E SquareFrame.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\E SquareFrame\bin\Debug\E SquareFrame.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\E SquareFrame\bin\Debug\E SquareFrame.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\E SquareFrame\obj\Debug\E SquareFrame.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\E SquareFrame\obj\Debug\E SquareFrame.pdb

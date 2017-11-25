@@ -1,0 +1,5 @@
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\E InvalidNumber\bin\Debug\E InvalidNumber.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\E InvalidNumber\bin\Debug\E InvalidNumber.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\E InvalidNumber\bin\Debug\E InvalidNumber.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\E InvalidNumber\obj\Debug\E InvalidNumber.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\ComplexConditionalStatements\E InvalidNumber\obj\Debug\E InvalidNumber.pdb

@@ -1,0 +1,5 @@
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\B RectangleOfNByNStars\bin\Debug\B RectangleOfNByNStars.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\B RectangleOfNByNStars\bin\Debug\B RectangleOfNByNStars.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\B RectangleOfNByNStars\bin\Debug\B RectangleOfNByNStars.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\B RectangleOfNByNStars\obj\Debug\B RectangleOfNByNStars.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\B RectangleOfNByNStars\obj\Debug\B RectangleOfNByNStars.pdb

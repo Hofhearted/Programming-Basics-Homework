@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\H Sunglasses\bin\Debug\H Sunglasses.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\H Sunglasses\bin\Debug\H Sunglasses.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\H Sunglasses\bin\Debug\H Sunglasses.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\H Sunglasses\obj\Debug\H Sunglasses.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\H Sunglasses\obj\Debug\H Sunglasses.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\H Sunglasses\obj\Debug\H Sunglasses.csprojResolveAssemblyReference.cache

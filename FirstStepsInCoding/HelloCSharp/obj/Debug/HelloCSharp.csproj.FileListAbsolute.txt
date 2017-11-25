@@ -1,0 +1,9 @@
+D:\Games\Games\Information\Projects\Software University\FirstStepsInCoding\FirstStepsInCoding\bin\Debug\FirstStepsInCoding.exe.config
+D:\Games\Games\Information\Projects\Software University\FirstStepsInCoding\FirstStepsInCoding\bin\Debug\FirstStepsInCoding.exe
+D:\Games\Games\Information\Projects\Software University\FirstStepsInCoding\FirstStepsInCoding\bin\Debug\FirstStepsInCoding.pdb
+D:\Games\Games\Information\Projects\Software University\FirstStepsInCoding\FirstStepsInCoding\obj\Debug\HelloCSharp.csprojResolveAssemblyReference.cache
+D:\Games\Games\Information\Projects\Software University\FirstStepsInCoding\FirstStepsInCoding\obj\Debug\FirstStepsInCoding.exe
+D:\Games\Games\Information\Projects\Software University\FirstStepsInCoding\FirstStepsInCoding\obj\Debug\FirstStepsInCoding.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\FirstStepsInCoding\bin\Debug\FirstStepsInCoding.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\FirstStepsInCoding\obj\Debug\FirstStepsInCoding.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\FirstStepsInCoding\obj\Debug\FirstStepsInCoding.pdb

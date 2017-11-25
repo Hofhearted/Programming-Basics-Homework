@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\HelloCSharp\bin\Debug\FirstStepsInCoding.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\HelloCSharp\obj\Debug\FirstStepsInCoding.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\HelloCSharp\obj\Debug\FirstStepsInCoding.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\HelloCSharp\bin\Debug\FirstStepsInCoding.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\HelloCSharp\bin\Debug\FirstStepsInCoding.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\HelloCSharp\obj\Debug\A HelloCSharp.csprojResolveAssemblyReference.cache

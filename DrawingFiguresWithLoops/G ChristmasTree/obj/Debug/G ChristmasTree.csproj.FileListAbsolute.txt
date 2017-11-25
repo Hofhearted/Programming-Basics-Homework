@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\G ChristmasTree\bin\Debug\G ChristmasTree.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\G ChristmasTree\bin\Debug\G ChristmasTree.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\G ChristmasTree\bin\Debug\G ChristmasTree.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\G ChristmasTree\obj\Debug\G ChristmasTree.csprojResolveAssemblyReference.cache
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\G ChristmasTree\obj\Debug\G ChristmasTree.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\G ChristmasTree\obj\Debug\G ChristmasTree.pdb

@@ -1,0 +1,6 @@
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\(Side) DrawingFiguresWL\bin\Debug\(Side) DrawingFiguresWL.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\(Side) DrawingFiguresWL\bin\Debug\(Side) DrawingFiguresWL.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\(Side) DrawingFiguresWL\bin\Debug\(Side) DrawingFiguresWL.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\(Side) DrawingFiguresWL\obj\Debug\(Side) DrawingFiguresWL.csprojResolveAssemblyReference.cache
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\(Side) DrawingFiguresWL\obj\Debug\(Side) DrawingFiguresWL.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\DrawingFiguresWithLoops\(Side) DrawingFiguresWL\obj\Debug\(Side) DrawingFiguresWL.pdb

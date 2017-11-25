@@ -1,0 +1,9 @@
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\Sumator(Side)\bin\Debug\Sumator.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\Sumator(Side)\bin\Debug\Sumator.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\Sumator(Side)\bin\Debug\Sumator.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\Sumator(Side)\obj\Debug\K Sumator(Side).csprojResolveAssemblyReference.cache
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\Sumator(Side)\obj\Debug\Sumator.FormCalculate.resources
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\Sumator(Side)\obj\Debug\Sumator.Properties.Resources.resources
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\Sumator(Side)\obj\Debug\K Sumator(Side).csproj.GenerateResource.Cache
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\Sumator(Side)\obj\Debug\Sumator.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\FirstStepsInCoding\Sumator(Side)\obj\Debug\Sumator.pdb

@@ -1,0 +1,5 @@
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\Advanced Loops\PowersOfTwo\bin\Debug\PowersOfTwo.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\Advanced Loops\PowersOfTwo\bin\Debug\PowersOfTwo.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\Advanced Loops\PowersOfTwo\bin\Debug\PowersOfTwo.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\Advanced Loops\PowersOfTwo\obj\Debug\PowersOfTwo.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\Advanced Loops\PowersOfTwo\obj\Debug\PowersOfTwo.pdb

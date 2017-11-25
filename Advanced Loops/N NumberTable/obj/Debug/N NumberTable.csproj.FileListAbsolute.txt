@@ -1,0 +1,5 @@
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\Advanced Loops\N NumberTable\bin\Debug\N NumberTable.exe.config
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\Advanced Loops\N NumberTable\bin\Debug\N NumberTable.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\Advanced Loops\N NumberTable\bin\Debug\N NumberTable.pdb
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\Advanced Loops\N NumberTable\obj\Debug\N NumberTable.exe
+D:\Games\Games\Information\Projects\Software University\Programming Basics Homework\Advanced Loops\N NumberTable\obj\Debug\N NumberTable.pdb
